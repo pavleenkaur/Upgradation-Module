@@ -19,7 +19,7 @@ After gathering the data from each interested student, the admin inputs the avai
   <li><a href = 'https://www.apachefriends.org/download.html'>Install Xampp</a></li>
   <li>Open the <b>Control Panel / Manager</b> from the downloaded Xampp file.</li>
   <li>Start the MySQL database and Apache Server.</li>
-  <li>Open the <b>htdocs</b> folder in the Xampp file and clone <a href='https://github.com/pavleenkaur/Upgradation-Module/'>this </a>repository</li>
+  <li>Open the <b>htdocs</b> folder in the Xampp file and clone <a href='https://github.com/pavleenkaur/Upgradation-Module/'>this </a>repository.</li>
 </ol>
 
 ### Usage
