@@ -25,7 +25,7 @@ After gathering the data from each interested student, the admin inputs the avai
 ### Usage
 <ol>
   <li>Run the <b>database.php</b> file to create the requisite tables on the server.</li>  
-  <li>Can be interchanged with Step ___. Go to <b>index.php</b>. Login onto the admin profile and submit the number of available seats in each branch<br>Admin
+  <li>Can be interchanged with Step ___. Go to <b>index.php</b>. Login onto the admin profile and submit the number of available seats in each branch<br>Default Admin
     Login Credentials :
     <table>
       <tr>
